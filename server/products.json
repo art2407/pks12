@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "ID": 1,
+      "ImageURL": "assets/images/home_24-25.png",
+      "Name": "Домашняя форма сезон 2024/25",
+      "Description": "Домашняя форма команды ПФК ЦСКА на сезон 2024/25",
+      "Price": 6500
+    },
+    {
+      "ID": 2,
+      "ImageURL": "assets/images/away_24-25.png",
+      "Name": "Гостевая форма сезон 2024/25",
+      "Description": "Гостевая форма команды ПФК ЦСКА на сезон 2024/25",
+      "Price": 6500
+    },
+    {
+      "ID": 3,
+      "ImageURL": "assets/images/res_24-25.png",
+      "Name": "Резервная форма сезон 2024/25",
+      "Description": "Резервная форма команды ПФК ЦСКА на сезон 2024/25",
+      "Price": 6500
+    },
+    {
+      "ID": 4,
+      "ImageURL": "assets/images/home_23-24.png",
+      "Name": "Домашняя форма сезон 2023/24",
+      "Description": "Домашняя форма команды ПФК ЦСКА на сезон 2023/24",
+      "Price": 8000
+    },
+    {
+      "ID": 5,
+      "ImageURL": "assets/images/away_23-24.png",
+      "Name": "Гостевая форма сезон 2023/24",
+      "Description": "Гостевая форма команды ПФК ЦСКА на сезон 2023/24",
+      "Price": 8000
+    },
+    {
+      "ID": 6,
+      "ImageURL": "assets/images/home_22-23.png",
+      "Name": "Домашняя форма сезон 2022/23",
+      "Description": "Домашняя форма команды ПФК ЦСКА на сезон 2022/23",
+      "Price": 10000
+    },
+    {
+      "ID": 7,
+      "ImageURL": "assets/images/away_22-23.png",
+      "Name": "Гостевая форма сезон 2022/23",
+      "Description": "Гостевая форма команды ПФК ЦСКА на сезон 2022/23",
+      "Price": 10000
+    },
+    {
+      "ID": 8,
+      "ImageURL": "assets/images/home_21-22.png",
+      "Name": "Домашняя форма сезон 2021/22",
+      "Description": "Домашняя форма команды ПФК ЦСКА на сезон 2021/22",
+      "Price": 11500
+    },
+    {
+      "ID": 9,
+      "ImageURL": "assets/images/away_21-22.png",
+      "Name": "Гостевая форма сезон 2021/22",
+      "Description": "Гостевая форма команды ПФК ЦСКА на сезон 2021/22",
+      "Price": 11500
+    },
+    {
+      "ID": 10,
+      "ImageURL": "assets/images/home_24-25.png",
+      "Name": "Тест",
+      "Description": "Тест",
+      "Price": 6500
+    }
+  ]
+}
